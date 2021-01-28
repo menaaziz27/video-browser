@@ -15,7 +15,7 @@ simple mimic youtube application based on vue
 and if you clicked on any result
 
 <p>
-    <img src="./assets/one.jpg">
+    <img src="./assets/two.jpg">
 </p>
 
 ## Project setup
